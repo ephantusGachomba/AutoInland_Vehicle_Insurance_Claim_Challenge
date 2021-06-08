@@ -14,7 +14,6 @@ The objective of this hackathon is to develop a predictive model that determines
 ## Contributing
 Pull requests are welcomed starting from 30th June when the hackathon is official over.
 
-Please make sure to update tests as appropriate.
 
 ## License
 Usage of the above data is in strict observation of terms of Zindi
